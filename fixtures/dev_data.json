@@ -1,0 +1,19 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "dannycrpark@yahoo.com",
+      "first_name": "Joe",
+      "last_name": "Demo",
+      "is_superuser": true,
+      "email": "dannycrpark@yahoo.com",
+      "password": "pbkdf2_sha256$30000$r7Grp9hSJJjD$mddbnxmkD8aRTGRIp0XIH1B/hxzBwTVXeDPAHusoAYg=",
+      "date_joined": "2017-02-10T05:18:55.745Z",
+      "user_permissions": [],
+      "groups": [],
+      "is_staff": true,
+      "is_active": true
+    }
+  }
+]
